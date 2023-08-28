@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Password Manager</string>
+    <string name="enter_your_name">Enter Your Name</string>
+    <string name="valid_password">Password length should be of 8 digits.
+        1. It have to contains one capital letter
+        2. It have to contains one small letter
+        3. It have to contain one digit between 0-9
+        4. It have to contains one special symbol</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="already_have_an_account_log_in">Already have an account ? Log In</string>
+    <string name="welcome_to_password_manager">Welcome To Password Manager</string>
+    <string name="enter_your_email">Enter Your Email</string>
+    <string name="addpassword">addPassword</string>
+    <string name="enter_password_label">Enter Password Label</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="save_password">Save Password</string>
+    <string name="all_password">All Passwords!!!</string>
+    <string name="update_password">Update Password</string>
+    <string name="update_my_data">Update My Data</string>
+    <string name="delete_my_data">Delete My Data</string>
+    <string name="cipherkeep">CipherKeep</string>
+    <string name="add_new_password">Add New Password</string>
+    <string name="delete_all_passwords">Delete All Passwords</string>
+    <string name="user">User</string>
+    <string name="hide_password">******</string>
+    <string name="logout">Logout</string>
+    <string name="cipher_keep">Cipher Keep</string>
+    <string name="login">Login</string>
+    <string name="please_sign_in_to_continue">please sign in to continue</string>
+    <string name="enter_your_email_id">Enter Your Email Id</string>
+    <string name="BtnLogin">Login</string>
+    <string name="don_t_have_an_account_sign_up">Don\'t have an account? Sign Up</string>
+    <string name="user_sign_up">Sign Up</string>
+    <string name="please_sign_up_to_continue">please sign up to continue</string>
+</resources>
